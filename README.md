@@ -5,10 +5,9 @@ BBs Classic Slots.
 
 This project is being developed for non-commercial use, as both a Hobbyist project and for personal education. 
 Comments appropriate to that purpose are welcome. 
-
 All images, are to the best of my knowledge public domain, and have been created by myself or downloaded from public repositories. I have worked closely with Claude Code, to develop the source, but the source has not been "Vibe Coded". I have been careful to develop the functions map step by step in such a way that the code is laid out exactly as I wanted it. 
 
-The Current Commit does not have either sound, nor any sort of "Big Win" pop-ups. Anyone working on either is welcome to develop their own forks for hobby use, or make suggestions.  
+The Current Commit does not have either sound, nor any sort of "Big Win" pop-ups. Anyone working on either is welcome to develop their own forks for hobby use, or make suggestions. The Paytable page seems to need a little cleaning up as well. 
 
 So why Slots?
 Besides the obvious coding challange, we are all bombarded with ads for Android slots apps asking for real money for virtual chips, that have no value. I am old enough to remember the old Hoyle PC apps, where for a modest upfront cost the player got perpetual access to a virtual casino and slots. They are just fun apps that still work on Windows PCs, but Hoyle never produced an android equivilent. So this project is a small first step in that direction. I would ultimately like to develop a stand alone app, probably in python, that could be distributed as a stand alone apk, and just live on a users tablet. 
